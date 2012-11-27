@@ -1,4 +1,4 @@
-smiths-bug-squasher
+# smiths-bug-squasher
 
 ### clone the repository
 `git clone https://github.com/smithschwartz/smiths-bug-squasher.git`
@@ -13,4 +13,3 @@ smiths-bug-squasher
 
 ###  view clean code for improvements
 `open clean-code/index.html`
-===================
